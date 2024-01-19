@@ -1,5 +1,5 @@
 # Project-Game
-Um repositório feito exclusivamente para eu me organizar na hora de criar meus jogos na Unreal Engine.
+Um repositório feito exclusivamente para me organizar na hora de criar meus jogos na Unreal Engine.
 ---
 <div>
   <div>
